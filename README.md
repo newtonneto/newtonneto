@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-![Newton's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtonneto&show_icons=true&theme=radical&layout=compact)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact)](https://github.com/newtonneto)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact&theme=radical" alt="Most used languages"/>
-</p>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=newtonneto&show_icons=true&theme=radical" />
+<img align="right" width="auto" style="display:flex;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact&theme=radical" />
 
 <!--
 **newtonneto/newtonneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
