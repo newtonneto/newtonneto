@@ -2,10 +2,8 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonneto&theme=radical "streak") ![Newton's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtonneto&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact&theme=radical)](https://github.com/newtonneto)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact&theme=radical" alt="Sublime's custom image"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto&layout=compact&theme=radical" alt="Most used languages"/>
 </p>
 
 <!--
