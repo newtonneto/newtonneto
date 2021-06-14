@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Contact
-<a href="https://www.linkedin.com/in/newtonneto/">
+<a href="https://www.linkedin.com/in/newtonneto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
 
 # Stats
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=newtonneto&show_icons=true&theme=radical" />
