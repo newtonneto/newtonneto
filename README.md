@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonneto&theme=radical "streak") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonneto&theme=radical "streak") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonneto)](https://github.com/newtonneto/github-readme-stats)
 
 
 <!--
